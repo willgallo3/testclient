@@ -1,0 +1,434 @@
+@media (max-width: 422px) {
+	.desktop {
+		display: none;
+	}
+
+	.mobile {
+		display: block;
+	}
+
+	.logo-3d-area {
+		text-align: center;
+	}
+
+	.logo-3d {
+	    width: 250px;
+	    position: relative;
+	    top: 20px;
+	    left: auto;
+	    z-index: 2;
+	    margin: 0 auto;
+	    text-align: center;
+	}
+
+	.logo-icons {
+		height: 50px;
+		opacity: 0.5;
+	}
+
+	.file-1 {
+		position: absolute;
+	    top: 90px;
+	    right: 30px;
+	    z-index: 1;
+	}
+
+	.file-2 {
+		position: absolute;
+	    top: 25px;
+	    left: 25px;
+	    z-index: 1;
+	}
+
+	.file-3 {
+		position: absolute;
+	    top: 330px;
+	    left: 135px;
+	    z-index: 1;
+	}
+
+	.folder-1 {
+		position: absolute;
+	    top: 0px;
+	    left: 130px;
+	    z-index: 1;
+	}
+
+	.folder-2 {
+		position: absolute;
+	    top: 230px;
+	    left: 20px;
+	    z-index: 1;
+	}
+
+	.folder-3 {
+		position: absolute;
+	    top: 300px;
+	    left: 225px;
+	    z-index: 1;
+	}
+
+	.header-content {
+	    position: relative;
+	    top: 100px;
+	}
+
+	.header-buttons li {
+	    display: block;
+	    margin-right: 0px;
+	    margin-bottom: 40px;
+	}
+
+	.header-buttons {
+	    margin-top: 50px;
+	}
+
+	header {
+	    position: relative;
+	    padding-bottom: 190px;
+	}
+
+	.masses-boxes-1,
+	.masses-boxes-2,
+	.masses-boxes-3,
+	.masses-boxes-4,
+	.masses-boxes-5,
+	.masses-boxes-6 {
+	    position: relative;
+	    top: auto;
+	    margin-top: 50px;
+	}
+
+	.masses-logo-mobile {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 30px;
+	}
+
+	.masses {
+	    position: relative;
+	    display: block;
+	    padding-top: 100px;
+	    height: 100%;
+	    padding-bottom: 150px;
+	}
+
+	.others {
+	    text-align: center;
+	    background-image: url('../img/team-bg-mobile.png');
+	    width: 100%;
+	    margin-top: 30px;
+	    padding-top: 30px;
+	    padding-bottom: 30px;
+	}
+
+	.team-bg {
+	    position: relative;
+	    right: auto;
+	    width: 100%;
+	    z-index: -2;
+	    padding-bottom: 275px;
+	    padding-top: 100px;
+	}
+
+	.will {
+	    position: relative;
+	    top: auto;
+	    left: auto;
+	    float: none;
+	    right: auto;
+	    margin-bottom: 20px;
+	}
+
+	.zaw {
+	    position: relative;
+	    top: auto;
+	    left: auto;
+	    float: none;
+	    right: auto;
+	    margin-bottom: 20px;
+	}
+
+	.raja {
+	    position: relative;
+	    top: auto;
+	    left: auto;
+	    float: none;
+	    right: auto;
+	    margin-bottom: 20px;
+	    text-align: center;
+	}
+
+	.hire {
+	    position: relative;
+	    top: auto;
+	    left: auto;
+	    float: none;
+	    right: auto;
+	    margin-bottom: 20px;
+	}
+
+	.team {
+		margin-bottom: 70px;
+	}
+
+	.timeline-title-left-1 {
+	    margin-top: 13px;
+	    color: inherit;
+	    float: right;
+	    text-align: right;
+	    padding-right: 25px;
+	}
+
+	.timeline-heading h4 a {
+	    color: white !important;
+	    letter-spacing: 0.10em;
+	    font-size: 14px;
+	}
+
+	.timeline-title-right-1 {
+	    margin-top: 13px;
+	    color: inherit;
+	    float: left;
+	    padding-left: 25px;
+	}
+
+	.timeline:before {
+		bottom: 125px;
+	}
+
+	.safe-logo-flat {
+	    position: relative;
+	    width: 100%;
+	    z-index: 2;
+	}
+
+	.logos-desc {
+	    position: relative;
+	    top: auto;
+	    left: auto;
+	    margin-top: 40px;
+	    margin-left: 0px;
+	}
+
+	.logos-desc .title h3::before {
+		display: none;
+	}
+
+	.logos-desc ul li {
+		height: auto;
+	}
+
+	.logos-desc .content {
+		padding-left: 0px;
+	}
+
+	.protocol .desc-sub-title-2 {
+		top: auto;
+	}
+
+	.voting-icon {
+	    width: 100%;
+	}
+
+	.voting-desc {
+	    position: relative;
+	    top: auto;
+	    margin-top: 50px;
+	    margin-right: 0;
+	    text-align: left;
+	}
+
+	.voting-desc .content {
+		padding-left: 0px;
+	}
+
+	.voting-desc .title h3::after {
+		display: none;
+	}
+
+	.voting-desc .content {
+	    position: relative;
+	    display: block;
+	    width: 100%;
+	    padding-right: 0px;
+	    float: none;
+	}
+
+	.voting-desc ul li {
+		height: auto;
+	}
+
+	.mobile-margin-bm {
+		margin-bottom: 50px;
+	}
+
+	.join-img ul li {
+	    display: block;
+	    margin-left: auto;
+	    margin-right: auto;
+	    margin-bottom: 30px;
+	}
+
+	.navbar-default .navbar-toggle {
+		border: none;
+	}
+
+	.navbar-default .navbar-toggle .icon-bar {
+		background: white;
+	}
+
+	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+		background: #337ab7;
+	}
+
+	.navbar-default .navbar-collapse {
+		border: none;
+	}
+
+	.navbar-collapse {
+		box-shadow: none;
+	}
+
+	.navbar-nav > li {
+		display: block;
+	}
+
+	.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover {
+		background: none;
+		color: #337ab7;
+	}
+
+	.navbar-default .navbar-nav > .active > a {
+		border: none;
+	}
+
+	.navbar-default .navbar-nav > .active > a:focus {
+		background: none;
+		outline: none;
+		color: #337ab7;
+	}
+
+	.navbar-default .navbar-nav > li > a:hover {
+		color: #337ab7;
+	}
+
+	.main-nav ul li {
+		padding: 10px 15px;
+	}
+
+	.buy-bg {
+		margin-top: 20px;
+		text-align: center;
+		width: 100%;
+	}
+
+	.buy-desktop {
+		display: none;
+	}
+}
+
+@media (max-width: 241px) {
+	h1 {
+		font-size: 28px;
+	}
+
+	.sub-title {
+		font-size: 14px;
+    	line-height: 18px;
+	}
+
+	.logo-3d {
+		width: 200px;
+	}
+
+	.file-3 {
+		top: 285px;
+	}
+
+	.folder-3 {
+		left: 50px;
+	}
+
+	.header-h1 {
+		font-size: 24px;
+	}
+
+	.blue-button {
+		font-size: 12px;
+		padding: 10px 15px;
+	}
+
+	.buy-bg {
+		font-size: 12px;
+		padding-left: 0px;
+	}
+
+	.buy-text {
+		width: 100%;
+	}
+}
+
+@media (min-width: 1600px) {
+	.desktop {
+		display: block;
+	}
+
+	.mobile {
+		display: none;
+	}
+
+	.raja {
+		position: absolute;
+	    right: -100px;
+	    top: 170px;
+	    float: right;
+	}
+
+	.zaw {
+		position: absolute;
+	    right: 155px;
+	    top: 85px;
+	}
+
+	.hire {
+		position: absolute;
+	    right: -150px;
+	    top: 400px;
+	}
+
+	.will {
+	    position: absolute;
+	    right: -35px;
+	    top: -80px;
+	    float: right;
+	}
+}
+
+@media (min-width: 1920px) {
+	.will {
+	    position: absolute;
+	    right: -175px;
+	    top: -80px;
+	    float: right;
+	}
+
+	.raja {
+	    position: absolute;
+	    right: -300px;
+	    top: 160px;
+	    float: right;
+	}
+
+	.zaw {
+		position: absolute;
+	    right: -10px;
+	    top: 90px;
+	}
+
+	.hire {
+		position: absolute;
+	    right: -310px;
+	    top: 400px;
+	}
+}
